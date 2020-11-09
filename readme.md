@@ -10,7 +10,7 @@ This project makes it possible to retrieve episodes from tracking data. Episodes
 2. Choose between Temporal Query (Notebooks) or Query by Semantic Example (qbse.py) 
 3. Execute Query
 
-Furthermore, there are some notebooks available in the folder notebooks that are work in progress related to retrieving the formation of a team and clustering of episodes. Unfortunately, these notebooks are work in progress.
+Furthermore, there are some notebooks available in the folder notebooks that to retrieve the formation of a team and cluster the episodes. Unfortunately, these notebooks are work in progress.
 
 ## Installation
 
